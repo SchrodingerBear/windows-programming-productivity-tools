@@ -7,14 +7,6 @@ This repository is a collection of tools that enable me to progress through proj
 ### 1. **Python Automation Scripts**
    - A set of Python scripts designed to automate repetitive tasks. These scripts are easily customizable for various automation needs.
 
-### 2. **Batch Files**
-   - A collection of batch files that allow you to automate tasks on Windows with a simple double-click. These files are useful for running sequences of commands quickly and efficiently.
-
-### 3. **Web Scraping Tools**
-   - Web scraping scripts using libraries like BeautifulSoup and Scrapy to extract data from websites. These tools are designed to help you gather and process data effectively.
-
-### 4. **Miscellaneous Utilities**
-   - Various other utilities that assist in different aspects of development and project management. These tools cover a broad range of functionalities.
 
 ## Getting Started
 
